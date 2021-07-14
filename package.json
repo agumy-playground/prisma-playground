@@ -6,7 +6,8 @@
   "author": "agumy <nov13sh@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "prisma": "^2.27.0"
+    "@prisma/client": "^2.27.0",
+    "prisma": "2.27.0"
   },
   "devDependencies": {
     "@types/node": "^16.3.2",
