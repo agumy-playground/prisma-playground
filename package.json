@@ -1,0 +1,8 @@
+{
+  "name": "prisma-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/agumy-playground/prisma-playground.git",
+  "author": "agumy <nov13sh@gmail.com>",
+  "license": "MIT"
+}
